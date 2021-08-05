@@ -1,5 +1,5 @@
 # __Author__ __Lencof__
-# Qos.py
+# sorted_nums.py
 
 def sorted(nums):
     s = True
